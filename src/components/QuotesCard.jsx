@@ -6,7 +6,7 @@ import Share from "../assets/Share.png"
 import CommentLike from "../assets/CommentLike.png"
 
 function QuotesCard({quote, isLiked, onClick }) {
-    console.log("props", {quote, isLiked, onClick});
+    
     if(!quote) return null;
     const {author, content, tags } = quote
     

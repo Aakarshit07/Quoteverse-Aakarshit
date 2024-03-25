@@ -15,7 +15,7 @@ let appRouter = createBrowserRouter([
   {
     path: "/likedquotes",
     element: <LikedQuotes />
-  }
+  },
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(

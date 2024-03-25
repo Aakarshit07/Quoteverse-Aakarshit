@@ -46,8 +46,8 @@ function Home() {
             </div>
             <div>
                 {filteredQuotes.map((item)=>(
-                    <QuotesCard 
-                        key={item._id}
+                    <QuotesCard
+                        key={item._id} 
                         quote={item}
                         isLiked={likedQuotes.includes(item._id)}
                         onClick={() => handleLike(item._id)}
