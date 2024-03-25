@@ -1,4 +1,4 @@
-# [Verve]() [Live]()
+# [Verve](https://quoteverse-aakarshit.vercel.app/) [Live](https://quoteverse-aakarshit.vercel.app/)
 ### Setup instruction
 
 1. Clone the Project
